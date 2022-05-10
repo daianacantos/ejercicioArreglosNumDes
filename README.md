@@ -1,2 +1,2 @@
-# ejercicioArreglosNumDes
+# ej3sumaEntreNumeros
 Created with CodeSandbox
